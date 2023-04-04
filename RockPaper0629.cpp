@@ -61,7 +61,7 @@ int main()
         // Introduction section 
 void intro(){
     cout << "\n\n\n\t     ROCK PAPER SCISSORS";
-    cout << "\n\n\n\n\t     MATRIC NO: H/CTE/21/0629";
+    cout << "\n\n\n\n\t     MATRIC NO: H/CTE/21/0639";
     cout << "\n\n\n\n\t     SUPERVISOR : ENGR NZUBE";
     cout << "\n\n\n\n\t     SCHOOL : THE FEDERAL POLYTECHNIC ILARO";
     cin.get();
